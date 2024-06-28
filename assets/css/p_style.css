@@ -1,0 +1,28 @@
+body {
+    background-color: beige;
+}
+
+button {
+    margin-top: 100px;
+    margin-left: 630px;
+    color: rgb(0, 115, 255);
+    padding: 1rem;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 2rem;
+    border: none;
+    background-color: rgb(30, 30, 191);
+}
+
+button:hover {
+    background-color: rgb(0, 0, 255);    
+}
+
+h1.Pile_Face {
+    color: darkcyan;
+    margin-top: 250px;
+    margin-left: 600px;
+    font-size: 50px;
+    font-weight: 500;
+}
